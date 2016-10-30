@@ -1,0 +1,28 @@
+* {
+   font-family:arial, sans-serif;
+}
+div {
+  margin: 0% 25%;
+  padding: 1% 0px;
+  }
+h1 {
+    align="center";
+  }
+.gran {
+    border-bottom: 1px solid;
+}
+ul {
+   margin-left:5%
+}
+.gran_1 {
+  border-bottom: 1px solid;
+  padding-bottom: 2%    
+}
+a {
+    margin-left: 5%; 
+    font-style:italic; 
+    font-weight:bold;
+}
+div h2+p {
+ margin-left:5%
+}
