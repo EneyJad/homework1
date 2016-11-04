@@ -2,7 +2,7 @@
    font-family: arial, sans-serif;
 }
 
-.global_margin {
+.indenting {
     margin: 0% 25%;
 }
 
@@ -12,6 +12,7 @@
 
 .my_photo {
     border: 1px solid;
+    width: 40%;
 }
 
 h1 {
@@ -24,7 +25,6 @@ h2 {
 
 .telephone {
     color: #000;
-    font-kerning: none;
     font-style: normal;
     font-weight: normal;
     text-decoration: none;
